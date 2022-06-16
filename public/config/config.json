@@ -1,18 +1,18 @@
 {
-  "CONTRACT_ADDRESS": "0xF9eadBD715fa813e7f0AA2E59069E2b335b7Cc6F",
-  "SCAN_LINK": "https://polygonscan.com/token/0xf9eadbd715fa813e7f0aa2e59069e2b335b7cc6f",
+  "CONTRACT_ADDRESS": "0x679e23631670f940462f78091680e3fbb6b53cac",
+  "SCAN_LINK": "https://polygonscan.com/token/0x679e23631670f940462f78091680e3fbb6b53cac",
   "NETWORK": {
     "NAME": "Polygon",
     "SYMBOL": "Matic",
     "ID": 137
   },
-  "NFT_NAME": "PUNK Pablos",
+  "NFT_NAME": "Primates.wtf",
   "SYMBOL": "NFT",
-  "MAX_SUPPLY": 888,
+  "MAX_SUPPLY": 10000,
   "WEI_COST": 75000000000000000,
   "DISPLAY_COST": 0.075,
   "GAS_LIMIT": 289310,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://opensea.io/collection/punk-pablos",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/primates-wtf",
   "SHOW_BACKGROUND": false
 }
